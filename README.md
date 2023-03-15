@@ -1,7 +1,8 @@
-# ozm10_appliances
-OpenZMeter 10 appliances Marzo 2023
+#OZM0
 
-Datos del 10 de Marzo de 2033  correspondientes a 10 aplicativos.  Las meedidas fueron tomadas entre las 11:10 y las 13:12
+Medidas  con 3  OpenZMeter  Trifásico  para  10 aplicativos  el 7 de  Marzo 2023,
+Datos del 10 de Marzo de 2033  correspondientes a 10 aplicativos.
+Las medidas fueron tomadas entre las 11:10 y las 13:12
   
 Se define tres periodos:
 
