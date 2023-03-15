@@ -1,14 +1,14 @@
-#OZM10
+## OZM10
 
-Medidas  con 3  OpenZMeter  Trifásico  ( cada uno con 4 canales de medida)  para  10 aplicativos mas el agregado.
+Medidas  con 3  OpenZMeter  Trifásico  (cada uno con 4 canales de medida)  para  10 aplicativos, mas el agregado.
 
-Las medidas corresponden a W, VAR, VA,f, VLN,PFy A  todas con un marca de tiempo ( Timestamp) de 13 dígitos.
+Las medidas corresponden a W, VAR, VA,f, VLN,PF y A,   todas con un marca de tiempo ( Timestamp) de 13 dígitos.
 
-En este escenario no se contemplan el procesameinto de Transitorios 
+En este escenario no se contemplan el procesamiento de Transitorios. 
 
 Las medidas se realizaron el 10 de Marzo de 2033  en el Laboratorio de Electrotecnia de la  Escuela de Ingenieria Industrial de la Universidad de Almeria.
 
-Las medidas fueron tomadas entre las 11:10 y las 13:12
+Las medidas fueron tomadas entre las 11:10 y las 13:12.
   
 Para el  entrenamiento se  han definido tres periodos:
 
@@ -18,7 +18,7 @@ Para el  entrenamiento se  han definido tres periodos:
  
  - TEST: 12:41 a 13:12
  
- Estos datos se entrenaron tanto con el algoritmo CO como el algoritmo FHMM
+ Estos datos se entrenaron, tanto con el algoritmo CO, como el algoritmo FHMM,
 
 
 Los aplicativos  usados en el experimento son los siguintes:
