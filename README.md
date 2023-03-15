@@ -1,7 +1,18 @@
 # ozm10_appliances
 OpenZMeter 10 appliances Marzo 2023
 
-#  Datos del 10 de Marzo de 2033  correspondientes a 10 aplicativos.  Las meedidas fueron tomadas entre las 11:10 y las 13:12
+Datos del 10 de Marzo de 2033  correspondientes a 10 aplicativos.  Las meedidas fueron tomadas entre las 11:10 y las 13:12
+  
+Se define tres periodos:
+
+ - TRAIN: 11:10 a 12:10 
+
+ - VAL: 12:10 a 12:41
+ 
+ - TEST: 12:41 a 13:12
+ 
+
+
 
 Los aplicativos son los siguintes:
 
